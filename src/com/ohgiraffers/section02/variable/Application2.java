@@ -64,7 +64,7 @@ public class Application2 {
         System.out.println("isTrue : " + isTrue);
         System.out.println("str : " + str);
 
-        /* 3-2. 변수를 이요한 연산 */
+        /* 3-2. 변수를 이용한 연산 */
         System.out.println("포인트와 보너스의 합? " + (point+ bonus));
 
         /* 3-3. 대입연산자(=)의 좌항과 우항에 사용 */
