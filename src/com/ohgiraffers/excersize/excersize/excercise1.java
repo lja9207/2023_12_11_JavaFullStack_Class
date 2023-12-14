@@ -58,6 +58,6 @@ public class excercise1 {
                     System.out.println(firstName + msg);
                     a++;
         }
-
+        System.out.println("배가 안아팠음좋겠다");
     }
 }
