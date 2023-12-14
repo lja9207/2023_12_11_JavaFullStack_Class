@@ -57,7 +57,6 @@ public class excercise1 {
                 case 9 : firstName = "홍";
                     System.out.println(firstName + msg);
                     a++;
-
         }
 
     }
